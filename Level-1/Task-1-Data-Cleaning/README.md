@@ -1,9 +1,9 @@
-# Task 1 — Data Cleaning & Preprocessing
+# Task 1 Data Cleaning & Preprocessing
 ## Objective
 Clean and preprocess the dataset to prepare it for analysis and modeling.
 
 ## Dataset Used
-`house Prediction Data Set.csv` — contains housing data with potential missing values, outliers, and categorical features.
+`house Prediction Data Set.csv` contains housing data with potential missing values, outliers, and categorical features.
 
 ## Steps Performed
 - Handling missing values
